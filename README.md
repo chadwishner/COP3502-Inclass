@@ -1,2 +1,2 @@
-# COP3502-Inclass
-In class Java Project
+# COP3502-Inclass-
+COP3502 Class: Learning about Java
